@@ -1,0 +1,891 @@
+<th>一
+</th>
+<td>いち
+</td>
+<td>ひと－つ
+</td>
+<td>one
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>一人</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ひとり</rt><rp style="font-size: x-small;">)</rp></ruby>　－　alone
+</td></tr>
+<tr>
+<th>二
+</th>
+<td>に
+</td>
+<td>ふた－つ
+</td>
+<td>two
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>二人</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ふたり</rt><rp style="font-size: x-small;">)</rp></ruby>　－　couple
+</td></tr>
+<tr>
+<th>三
+</th>
+<td>さん
+</td>
+<td>みっ－つ
+</td>
+<td>three
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>三月</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">さんがつ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　March
+</td></tr>
+<tr>
+<th>四
+</th>
+<td>し
+</td>
+<td>よん<br>よっ－つ
+</td>
+<td>four
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>四季</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">しき</rt><rp style="font-size: x-small;">)</rp></ruby>　－　four seasons
+</td></tr>
+<tr>
+<th>五
+</th>
+<td>ご
+</td>
+<td>いつ－つ
+</td>
+<td>five
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>五分</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ごふん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　five minutes
+</td></tr>
+<tr>
+<th>六
+</th>
+<td>ろく
+</td>
+<td>むっ－つ<br>むい
+</td>
+<td>six
+</td>
+<td>
+</td></tr>
+<tr>
+<th>七
+</th>
+<td>しち
+</td>
+<td>なな－つ<br>なの<br>なぬ
+</td>
+<td>seven
+</td>
+<td>
+</td></tr>
+<tr>
+<th>八
+</th>
+<td>はち
+</td>
+<td>やっ－つ<br>よう
+</td>
+<td>eight
+</td>
+<td>
+</td></tr>
+<tr>
+<th>九
+</th>
+<td>きゅう<br>く
+</td>
+<td>ここの－つ
+</td>
+<td>nine
+</td>
+<td>
+</td></tr>
+<tr>
+<th>十
+</th>
+<td>じゅう
+</td>
+<td>とお<br>とう
+</td>
+<td>ten
+</td>
+<td>
+</td></tr>
+<tr>
+<th>百
+</th>
+<td>ひゃく
+</td>
+<td>もも
+</td>
+<td>hundred
+</td>
+<td>
+</td></tr>
+<tr>
+<th>千
+</th>
+<td>せん
+</td>
+<td>ち
+</td>
+<td>thousand
+</td>
+<td>
+</td></tr>
+<tr>
+<th>万
+</th>
+<td>ばん<br>まん
+</td>
+<td>よろず
+</td>
+<td>ten thousand; myriad
+</td>
+<td>
+</td></tr>
+<tr>
+<th>父
+</th>
+<td>ふ
+</td>
+<td>ちち
+</td>
+<td>father
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>お父さん</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">おとうさん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　father
+</td></tr>
+<tr>
+<th>母
+</th>
+<td>ぼ<br>も
+</td>
+<td>はは
+</td>
+<td>mother
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>お母さん</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">おかあさん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　mother
+</td></tr>
+<tr>
+<th>友
+</th>
+<td>ゆう
+</td>
+<td>とも
+</td>
+<td>friend
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>友だち</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ともだち</rt><rp style="font-size: x-small;">)</rp></ruby>　－　friend<br><ruby style="ruby-align: center;" lang="ja"><rb>友人</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ゆうじん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　friend
+</td></tr>
+<tr>
+<th>女
+</th>
+<td>じょ<br>にょ
+</td>
+<td>おんな
+</td>
+<td>woman<br>female
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>女性</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">じょせい</rt><rp style="font-size: x-small;">)</rp></ruby>　－　woman <br><ruby style="ruby-align: center;" lang="ja"><rb>女の子</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">おんなのこ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　girl
+</td></tr>
+<tr>
+<th>男
+</th>
+<td>だん<br>なん
+</td>
+<td>おとこ<br>おのこ<br>お
+</td>
+<td>man; male
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>男性</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">だんせい</rt><rp style="font-size: x-small;">)</rp></ruby>　－　man<br><ruby style="ruby-align: center;" lang="ja"><rb>男の子</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">おとこのこ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　boy
+</td></tr>
+<tr>
+<th>人
+</th>
+<td>じん<br>にん
+</td>
+<td>ひと
+</td>
+<td>person; person counter suffix
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>日本人</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">にほんじん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Japanese person
+</td></tr>
+<tr>
+<th>子
+</th>
+<td>し<br>す
+</td>
+<td>こ<br>ね
+</td>
+<td>child
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>子ども</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">こども</rt><rp style="font-size: x-small;">)</rp></ruby>　－　child
+</td></tr>
+<tr>
+<th>日
+</th>
+<td>じつ<br>にち
+</td>
+<td>ひ<br>か
+</td>
+<td>sun; day; day counter suffix
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>日曜日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">にちようび</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Sunday <br><ruby style="ruby-align: center;" lang="ja"><rb>お日さま</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">おひさま</rt><rp style="font-size: x-small;">)</rp></ruby>　－　the Sun
+</td></tr>
+<tr>
+<th>月
+</th>
+<td>がつ<br>げつ
+</td>
+<td>つき
+</td>
+<td>month names; other times; moon; month
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>月曜日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">げつようび</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Monday<br><ruby style="ruby-align: center;" lang="ja"><rb>お月さま</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">おつきさま</rt><rp style="font-size: x-small;">)</rp></ruby>　－　the Moon<br><ruby style="ruby-align: center;" lang="ja"><rb>一ヶ月</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">いっかげつ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　a month
+</td></tr>
+<tr>
+<th>火
+</th>
+<td>　か
+</td>
+<td>　ひ<br>ほ
+</td>
+<td>　fire; light
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>火曜日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">かようび</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Tuesday <br><ruby style="ruby-align: center;" lang="ja"><rb>花火</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">はなび</rt><rp style="font-size: x-small;">)</rp></ruby>　－　fire works
+</td></tr>
+<tr>
+<th>水
+</th>
+<td>　すい
+</td>
+<td>　みず
+</td>
+<td>　water
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>水曜日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">すいようび</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Wednesday
+</td></tr>
+<tr>
+<th>木
+</th>
+<td>　もく<br>ぼく
+</td>
+<td>　き
+</td>
+<td>　tree; wood
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>木曜日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">もくようび</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Thursday
+</td></tr>
+<tr>
+<th>金
+</th>
+<td>　きん<br>こん
+</td>
+<td>　かね
+</td>
+<td>　gold<br>metal; money
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>金曜日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">きんようび</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Friday<br> <ruby style="ruby-align: center;" lang="ja"><rb>お金もち</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">おかねもち</rt><rp style="font-size: x-small;">)</rp></ruby>　－　the rich
+</td></tr>
+<tr>
+<th>土
+</th>
+<td>　ど<br>と
+</td>
+<td>　つち
+</td>
+<td>　earth; ground; soil
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>土曜日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">どようび</rt><rp style="font-size: x-small;">)</rp></ruby> ー　Saturday
+</td></tr>
+<tr>
+<th>本
+</th>
+<td>　ほん
+</td>
+<td>　もと
+</td>
+<td>　root; book; slender object counter
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>日本</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">にほん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Japan<br><ruby style="ruby-align: center;" lang="ja"><rb>本屋</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ほんや</rt><rp style="font-size: x-small;">)</rp></ruby>　－　bookstore
+</td></tr>
+<tr>
+<th>休
+</th>
+<td>　きゅう
+</td>
+<td>　やす－み<br>やす－む
+</td>
+<td>　rest; vacation
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>休けい</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">きゅうけい</rt><rp style="font-size: x-small;">)</rp></ruby>　－　break, rest<br><ruby style="ruby-align: center;" lang="ja"><rb>夏休み</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">なつやすみ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　summer vacation
+</td></tr>
+<tr>
+<th>語
+</th>
+<td>ご
+</td>
+<td>かたり<br>かた－る
+</td>
+<td>word; speech; language; narration; to tell; to speak
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>日本語</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">にほんご</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Japanese<br> <ruby style="ruby-align: center;" lang="ja"><rb>英語</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">えいご</rt><rp style="font-size: x-small;">)</rp></ruby>　－　English<br><ruby style="ruby-align: center;" lang="ja"><rb>物語</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ものがたり</rt><rp style="font-size: x-small;">)</rp></ruby>　－　tale
+</td></tr>
+<tr>
+<th>年
+</th>
+<td>ねん
+</td>
+<td>とし
+</td>
+<td>year<br><i>year counter</i>
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>一年</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">いちねん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　a year<br><ruby style="ruby-align: center;" lang="ja"><rb>今年</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ことし</rt><rp style="font-size: x-small;">)</rp></ruby>　－　this year
+</td></tr>
+<tr>
+<th>午
+</th>
+<td>ご
+</td>
+<td>うま
+</td>
+<td>noon
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>正午</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">しょうご</rt><rp style="font-size: x-small;">)</rp></ruby>　－　noon
+</td></tr>
+<tr>
+<th>前
+</th>
+<td>ぜん
+</td>
+<td>まえ<br>さき
+</td>
+<td>before; in front of; previous
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>午前</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ごぜん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　before noon; morning
+</td></tr>
+<tr>
+<th>後
+</th>
+<td>ご<br>こう
+</td>
+<td>うし－ろ<br>のち<br>あと
+</td>
+<td>behind; after
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>午後</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ごご</rt><rp style="font-size: x-small;">)</rp></ruby>　－　afternoon
+</td></tr>
+<tr>
+<th>時
+</th>
+<td>じ
+</td>
+<td>とき
+</td>
+<td>time; hour counter
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>時間</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">じかん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　time
+</td></tr>
+<tr>
+<th>間
+</th>
+<td>かん<br>けん
+</td>
+<td>あいだ<br>ま
+</td>
+<td>interval<br>space<br>room<br>time
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>三時間</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">さんじかん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　a period of three hours
+</td></tr>
+<tr>
+<th>毎
+</th>
+<td>まい
+</td>
+<td>ごと
+</td>
+<td>every
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>毎日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">まいにち</rt><rp style="font-size: x-small;">)</rp></ruby>　－　everyday
+</td></tr>
+<tr>
+<th>先
+</th>
+<td>せん
+</td>
+<td>さき
+</td>
+<td>previous<br>ahead
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>先生</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">せんせい</rt><rp style="font-size: x-small;">)</rp></ruby>　－　teacher
+</td></tr>
+<tr>
+<th>今
+</th>
+<td>こん<br>きん
+</td>
+<td>いま
+</td>
+<td>now<br>the present
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>今日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">きょう<br>こんにち</rt><rp style="font-size: x-small;">)</rp></ruby>　－　today
+</td></tr>
+<tr>
+<th>何
+</th>
+<td>か
+</td>
+<td>なに<br>なん<br>いず－れ
+</td>
+<td>what<br>how many
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>何日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">なんにち</rt><rp style="font-size: x-small;">)</rp></ruby>　－　which day
+</td></tr>
+<tr>
+<th>上
+</th>
+<td>じょう<br>しょう
+</td>
+<td>うえ<br>うわ<br>あ－げる<br>あ－がる<br>のぼ－る<br>のぼ－せる<br>かみ
+</td>
+<td>top<br>above; to raise; to rise; to go up
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>上手</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">じょおず</rt><rp style="font-size: x-small;">)</rp></ruby>　－　skillful
+</td></tr>
+<tr>
+<th>下
+</th>
+<td>か<br>げ
+</td>
+<td>した<br>しも<br>さ－げる<br>さ－がる<br>くだ－る<br>くだ－す<br>お－りる<br>お－ろす
+</td>
+<td>bottom<br>under<br>down
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>下着</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">したぎ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　underwear
+</td></tr>
+<tr>
+<th>左
+</th>
+<td>さ
+</td>
+<td>ひだり
+</td>
+<td>left
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>左足</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ひだりあし</rt><rp style="font-size: x-small;">)</rp></ruby>　－　left foot
+</td></tr>
+<tr>
+<th>右
+</th>
+<td>ゆう<br>う
+</td>
+<td>みぎ
+</td>
+<td>right
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>右手</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">みぎて</rt><rp style="font-size: x-small;">)</rp></ruby>　－　right hand
+</td></tr>
+<tr>
+<th>北
+</th>
+<td>ほく
+</td>
+<td>きた
+</td>
+<td>north
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>北海道</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ほっかいどう</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Hokkaido
+</td></tr>
+<tr>
+<th>南
+</th>
+<td>なん
+</td>
+<td>みなみ
+</td>
+<td>south
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>南</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">みなみ</rt><rp style="font-size: x-small;">)</rp></ruby>アメリカ　－　South America
+</td></tr>
+<tr>
+<th>東
+</th>
+<td>とう
+</td>
+<td>ひがし<br>ひんがし
+</td>
+<td>east
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>東京</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">とうきょう</rt><rp style="font-size: x-small;">)</rp></ruby> -Tokyo
+</td></tr>
+<tr>
+<th>西
+</th>
+<td>せい<br>さい
+</td>
+<td>にし
+</td>
+<td>west
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>関西</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">かんさい</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Kansai region
+</td></tr>
+<tr>
+<th>外
+</th>
+<td>がい<br>げ<br>うい
+</td>
+<td>ほか<br>そと
+</td>
+<td>outside<br>foreign<br>other
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>外国人</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">がいこくじん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　foreigner, foreign person
+</td></tr>
+<tr>
+<th>名
+</th>
+<td>めい<br>みょう
+</td>
+<td>な
+</td>
+<td>name<br>fame<br>famous; name
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>名前</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">なまえ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　name
+</td></tr>
+<tr>
+<th>高
+</th>
+<td>こう
+</td>
+<td>たか－い<br>たか
+</td>
+<td>high<br>costly<br>tall
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>高校</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">こうこう</rt><rp style="font-size: x-small;">)</rp></ruby>　－　high school
+</td></tr>
+<tr>
+<th>小
+</th>
+<td>しょう
+</td>
+<td>こ<br>お<br>ちい－さい
+</td>
+<td>small<br>little
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>小学校</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">しょうがっこう</rt><rp style="font-size: x-small;">)</rp></ruby>　－　elementary school
+</td></tr>
+<tr>
+<th>中
+</th>
+<td>ちゅう<br>じゅう
+</td>
+<td>なか<br>あた－る
+</td>
+<td>middle<br>center<br>within<br>inside
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>中学校</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ちゅうがっこう</rt><rp style="font-size: x-small;">)</rp></ruby>　－　junior high school
+</td></tr>
+<tr>
+<th>大
+</th>
+<td>だい<br>たい
+</td>
+<td>おお－きい
+</td>
+<td>great<br>big
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>大学</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">だいがく</rt><rp style="font-size: x-small;">)</rp></ruby>　－　university; college<br><ruby style="ruby-align: center;" lang="ja"><rb>大阪</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">おおさか</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Osaka
+</td></tr>
+<tr>
+<th>長
+</th>
+<td>ちょう
+</td>
+<td>なが－い
+</td>
+<td>head of an organization<br>leader; long
+</td>
+<td>
+</td></tr>
+<tr>
+<th>半
+</th>
+<td>はん
+</td>
+<td>なか－ば
+</td>
+<td>half
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>半分</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">はんぶん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　half
+</td></tr>
+<tr>
+<th>分
+</th>
+<td>ぶん<br>ふん<br>ぶ
+</td>
+<td>わ－ける<br>わ－かる<br>わ－かつ
+</td>
+<td>part<br>share; minute counter; to divide<br>separate; to understand
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>三分</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">さんぶん</rt><rp style="font-size: x-small;">)</rp></ruby> － three minutes
+</td></tr>
+<tr>
+<th>学
+</th>
+<td>がく
+</td>
+<td>まな－ぶ
+</td>
+<td>learning<br>science; to learn
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>学校</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">がっこう</rt><rp style="font-size: x-small;">)</rp></ruby>　－　school
+</td></tr>
+<tr>
+<th>校
+</th>
+<td>こう
+</td>
+<td>あぜ
+</td>
+<td>school
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>学校</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">がっこう</rt><rp style="font-size: x-small;">)</rp></ruby>　－　school
+</td></tr>
+<tr>
+<th>生
+</th>
+<td>せい<br>しょう
+</td>
+<td>う－む<br>い－きる<br>なま
+</td>
+<td>birth<br>life; to give birth; to live; raw
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>誕生日</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">たんじょうび</rt><rp style="font-size: x-small;">)</rp></ruby>　－　birthday
+</td></tr>
+<tr>
+<th>山
+</th>
+<td>さん<br>せん
+</td>
+<td>やま
+</td>
+<td>mountain
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>富士山</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ふじさん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　Mt. Fuji
+</td></tr>
+<tr>
+<th>川
+</th>
+<td>せん
+</td>
+<td>かわ
+</td>
+<td>river<br>stream
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>川上</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">かわかみ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　upstream
+</td></tr>
+<tr>
+<th>白
+</th>
+<td>はく<br>びゃく
+</td>
+<td>しろ<br>しら<br>しろ－い
+</td>
+<td>white
+</td>
+<td>
+</td></tr>
+<tr>
+<th>天
+</th>
+<td>てん
+</td>
+<td>あま<br>あめ
+</td>
+<td>heaven<br>sky
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>天気</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">てんき</rt><rp style="font-size: x-small;">)</rp></ruby>　－　weather
+</td></tr>
+<tr>
+<th>雨
+</th>
+<td>う
+</td>
+<td>あま<br>あめ
+</td>
+<td>rain
+</td>
+<td>
+</td></tr>
+<tr>
+<th>電
+</th>
+<td>でん
+</td>
+<td>いかずち
+</td>
+<td>electricity<br>electric powered
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>電話</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">でんわ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　telephone<br><ruby style="ruby-align: center;" lang="ja"><rb>電車</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">でんしゃ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　train
+</td></tr>
+<tr>
+<th>気
+</th>
+<td>き<br>け
+</td>
+<td>
+</td>
+<td>spirit<br>intention<br>mind<br>power<br>energy
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>空気</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">くうき</rt><rp style="font-size: x-small;">)</rp></ruby>　－　air
+</td></tr>
+<tr>
+<th>車
+</th>
+<td>しゃ
+</td>
+<td>くるま
+</td>
+<td>wheel; vehicle; car
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>自転車</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">じてんしゃ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　bicycle
+</td></tr>
+<tr>
+<th>国
+</th>
+<td>こく<br>ごく
+</td>
+<td>くに
+</td>
+<td>country<br>nation
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>中国</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ちゅうごく</rt><rp style="font-size: x-small;">)</rp></ruby>　－　China
+</td></tr>
+<tr>
+<th>円
+</th>
+<td>えん
+</td>
+<td>まる－い<br>まど－か<br>つぶ－ら
+</td>
+<td>circle; yen (money)
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>百円</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">ひゃくえん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　100 yen
+</td></tr>
+<tr>
+<th>話
+</th>
+<td>わ
+</td>
+<td>はなし<br>はな－す
+</td>
+<td>talk<br>topic<br>story; to talk
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>会話</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">かいわ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　conversation
+</td></tr>
+<tr>
+<th>聞
+</th>
+<td>ぶん<br>もん
+</td>
+<td>き－く
+</td>
+<td>to hear<br>to listen<br>to ask
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>新聞</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">しんぶん</rt><rp style="font-size: x-small;">)</rp></ruby>　－　newspaper
+</td></tr>
+<tr>
+<th>食
+</th>
+<td>じき<br>しょく
+</td>
+<td>く－う<br>た－べる
+</td>
+<td>eating<br>meal<br>food
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>食べ物</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">たべもの</rt><rp style="font-size: x-small;">)</rp></ruby>　－　food
+</td></tr>
+<tr>
+<th>読
+</th>
+<td>どく<br>とう
+</td>
+<td>よ－む
+</td>
+<td>to read
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>読書</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">どくしょ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　reading
+</td></tr>
+<tr>
+<th>来
+</th>
+<td>らい
+</td>
+<td>く－る
+</td>
+<td>to come
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>未来</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">みらい</rt><rp style="font-size: x-small;">)</rp></ruby>　－　future
+</td></tr>
+<tr>
+<th>書
+</th>
+<td>しょ
+</td>
+<td>か－く
+</td>
+<td>book<br>document; to write
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>書道</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">しょどう</rt><rp style="font-size: x-small;">)</rp></ruby>　－　calligraphy
+</td></tr>
+<tr>
+<th>見
+</th>
+<td>けん
+</td>
+<td>み－る<br>み－せる
+</td>
+<td>to show
+</td>
+<td>
+</td></tr>
+<tr>
+<th>行
+</th>
+<td>ぎょう<br>こう<br>あん
+</td>
+<td>い－く<br>ゆ－く
+</td>
+<td>to go
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>旅行</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">りょこう</rt><rp style="font-size: x-small;">)</rp></ruby>　－ journey
+</td></tr>
+<tr>
+<th>出
+</th>
+<td>しゅつ<br>すい
+</td>
+<td>だ－す<br>いだ－す<br>で－る
+</td>
+<td>to go out<br>leave
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>出口</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">でぐち</rt><rp style="font-size: x-small;">)</rp></ruby>　－　exit
+</td></tr>
+<tr>
+<th>入
+</th>
+<td>にゅう<br>じゅ
+</td>
+<td>い－る<br>はい－る
+</td>
+<td>enter<br>to go in<br>to insert
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>入口</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">いりぐち</rt><rp style="font-size: x-small;">)</rp></ruby>　－　entrance
+</td></tr>
+<tr>
+<th>会
+</th>
+<td>かい<br>え
+</td>
+<td>あ－う
+</td>
+<td>to meet
+</td>
+<td><ruby style="ruby-align: center;" lang="ja"><rb>会社</rb><rp style="font-size: x-small;">(</rp><rt class="furigana" style="font-size: x-small;">かいしゃ</rt><rp style="font-size: x-small;">)</rp></ruby>　－　company, corporation
+</td></tr>
+<tr>

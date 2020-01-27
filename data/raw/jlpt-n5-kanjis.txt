@@ -1,0 +1,103 @@
+N5 一 イチ, イツ ひと, ひと.つ un, 1
+N5 七 シチ なな, なな.つ, なの sept, 7
+N5 万 マン, バン よろず dix-mille, 10000
+N5 三 サン, ゾウ み, み.つ, みっ.つ trois, 3
+N5 上 ジョウ, ショウ, シャンうえ, あ.げる, のぼ.る au-dessus, haut, monter, donner
+N5 下 カ, ゲ した, さ.げる, くだ.る au-dessous, descendre, bas, donner, inférieur
+N5 中 チュウ なか, うち, あた.る dans, dedans, à l'intérieur, milieu, centre, moyenne
+N5 九 キュウ, ク ここの, ここの.つ neuf, 9
+N5 二 ニ, ジ ふた, ふた.つ, ふたた.び deux, 2
+N5 五 ゴ いつ, いつ.つ cinq, 5
+N5 人 ジン, ニン ひと être humain, personne
+N5 今 コン いま maintenant
+N5 休 キュウ やす.む, やす.める se reposer, repos
+N5 会 カイ あ.う réunion, rencontre, parti
+N5 何 カ なに, なん quoi, que
+N5 先 セン さき, ま.ず avant, devant, précédent
+N5 入 ニュウ, ジュ い.る, い.れる, はい.る entrer, insérer
+N5 八 ハチ や, や.つ, やっ.つ, よう huit, 8
+N5 六 ロク, リク む six, 6
+N5 円 エン まる.い cercle, yen, rond
+N5 出 シュツ, スイ で.る, だ.す, い.でる sortir, quitter, présence
+N5 分 ブン, フン わ.ける, わ.かる comprendre, minute, degré, taux
+N5 前 ゼン まえ avant, devant
+N5 北 ホク きた Nord
+N5 十 ジュウ とお, と dix, 10
+N5 千 セン ち mille, 1000
+N5 午 ゴ うま midi
+N5 半 ハン なか.ば moitié, milieu, demi
+N5 南 ナン みなみ Sud
+N5 友 ユウ とも ami
+N5 口 コウ, ク くち bouche
+N5 古 コ ふる.い vieux, ancien
+N5 右 ウ, ユウ みぎ droite
+N5 名 メイ, ミョウ な nom, célèbre, fameux
+N5 四 シ よ, よん quatre, 4
+N5 国 コク くに pays
+N5 土 ド, ト つち sol, terre, terrain
+N5 外 ガイ そと, はず.れ extérieur, dehors
+N5 多 タ おお.い nombreux, beaucoup
+N5 大 ダイ, タイ おお.きい grand
+N5 天 テン あまつ, あめ cieux, ciel, impérial
+N5 女 ジョ, ニョ, ニョウ おんな, め femme, féminin
+N5 子 シ, ス, ツ こ enfant
+N5 学 ガク まな.ぶ étudier, apprendre, science
+N5 安 アン やす.い bon marché, peu cher, sûr, tranquille
+N5 小 ショウ ちい.さい, こ petit
+N5 少 ショウ すく.ない, すこ.し un peu, peu de
+N5 山 サン, セン やま montagne
+N5 川 セン かわ rivière, fleuve
+N5 左 サ, シャ ひだり gauche
+N5 年 ネン とし année, compteur pour les années
+N5 店 テン みせ magasin, échoppe
+N5 後 ゴ, コウ のち, うし.ろ, あと, おく.れる après, derrière
+N5 手 シュ て main
+N5 新 シン あたら.しい nouveau, frais
+N5 日 ニチ, ジツ ひ, か jour, soleil, Japon, compteur pour les jours
+N5 時 ジ とき temps, heure
+N5 書 ショ か.く écrire
+N5 月 ゲツ, ガツ つき lune, mois
+N5 木 モク き arbre, bois
+N5 本 ホン もと livre, essentiel, réalité, compteur pour les objets allongés
+N5 来 ライ く.る venir, suivant
+N5 東 トウ ひがし Est
+N5 校 コウ めん école
+N5 母 ボ はは mère, maman
+N5 毎 マイ ごと chaque, tous les
+N5 気 キ いき esprit, atmosphère, humeur
+N5 水 スイ みず eau
+N5 火 カ ひ feu
+N5 父 フ ちち père, papa
+N5 生 セイ, ショウ い.きる, う.まれる, なま vivre, naître, cru, authentique
+N5 男 ダン, ナン おとこ homme, mâle
+N5 白 ハク しろ.い blanc
+N5 百 ヒャク, ビャク もも cent, 100
+N5 目 モク, ボク め oeuil, œil, numérateur ordinal
+N5 社 シャ やしろ entreprise, société, temple shinto
+N5 空 クウ そら, あ.く, す.く ciel, creux, vide
+N5 立 リツ た.つ être debout, établir
+N5 耳 ジ みみ oreille
+N5 聞 ブン, モン き.く, き.こえる entendre, écouter, demander
+N5 花 カ はな fleur
+N5 行 コウ, ギョウ い.く, ゆ.く, おこ.なう aller, voyage
+N5 西 セイ にし Ouest
+N5 見 ケン み.る, み.える, み.せる regarder, voir
+N5 言 ゲン, ゴン い.う dire, parler
+N5 話 ワ はな.す, はなし parler, histoire
+N5 語 ゴ かた.る, かた.らう langage, mot, raconter
+N5 読 ドク, トク よ.む lire
+N5 買 バイ か.う acheter
+N5 足 ソク あし, た.りる, た.す jambe, être suffisant, ajouter
+N5 車 シャ くるま véhicule, voiture
+N5 週 シュウ - semaine
+N5 道 ドウ みち voie, route, chemin
+N5 金 キン, コン かね or
+N5 長 チョウ なが.い chef, long
+N5 間 カン あいだ, ま intervalle
+N5 雨 ウ あめ pluie
+N5 電 デン - électricité
+N5 食 ショク た.べる manger, nourriture
+N5 飲 イン, オン の.む boire, boisson
+N5 駅 エキ - gare
+N5 高 コウ たか.い haut, élevé, cher
+N5 魚 ギョ うお, さかな poisson

@@ -1,0 +1,728 @@
+N5 ああ 嗚呼 ah !, oh !, hey! 
+N5 あいさつする 挨拶する  saluer 
+N5 あう 会う・遭う [五段] rencontrer, voir (une personne) 
+N5 あお 青  bleu (le), vert (le)
+N5 あおい 青い・蒼い bleu, vert, inexpérimenté 
+N5 あか 赤  rouge (le) 
+N5 あかい 赤い  rouge 
+N5 あかるい 明るい  clair
+N5 あき 秋  automne 
+N5 あく 開く [五段] s'ouvrir 
+N5 あける 開ける・明ける [一段] ouvrir 
+N5 あげる 上げる [一段] donner
+N5 あさ 朝  matin 
+N5 あさごはん 朝ご飯  petit-déjeuner 
+N5 あさって 明後日  après-demain 
+N5 あし 足  jambe
+N5 あし 足  pied 
+N5 あした 明日  demain 
+N5 あそこ 彼処  là-bas (loin du locuteur et de l'interlocuteur) 
+N5 あそび 遊び  jeu
+N5 あそぶ 遊ぶ [五段] jouer 
+N5 あたたかい 温かい・暖かい  tiède, chaud 
+N5 あたま 頭  tête 
+N5 あたらしい 新しい  nouveau
+N5 あちら 彼方  ce côté-là (loin du locuteur et de l'interlocuteur) 
+N5 あつい 暑い  chaud (temps météo.) 
+N5 あつい 厚い  épais, lourd 
+N5 あっち 彼方  ce côté-là (loin du locuteur et de l'interlocuteur)
+N5 あと 後  après 
+N5 あなた 貴方  tu, toi, ton (neutre) 
+N5 あに 兄  grand-frère 
+N5 あね 姉  grande-sœur
+N5 あの  bien, donc... 
+N5 あの 彼の  ce (loin du locuteur et de l'interlocuteur) 
+N5 アパート  appartement 
+N5 あびる 浴びる [一段] prendre une douche, prendre un bain, se dorer au soleil
+N5 あぶない 危ない  dangereux 
+N5 あまい 甘い  doux, délicieux, sucré
+N5 あまり 余り  pas tellement (+négatif) 
+N5 あめ 雨  pluie 
+N5 あめ 飴  bonbon, sucrerie 
+N5 あらう 洗う [五段] laver
+N5 ある 有る [五段] avoir, posséder 
+N5 ある 在る [五段] être, se trouver, exister 
+N5 あるく 歩く [五段] marcher 
+N5 あれ 彼  ceci (loin du locuteur et de l'interlocuteur) 
+N5 あんまり・あまり 余り  excès, trop plein, surplus 
+N5 いい・よい 良い  plaisant, agréable, bien 
+N5 いいえ, いえ 否  non 
+N5 いう 言う [五段] dire 
+N5 いえ 家  maison
+N5 いく・ゆく 行く [五段]s aller 
+N5 いくつ 幾つ  combien ? (quantité) 
+N5 いくら 幾ら  combien ? (prix) 
+N5 いけ 池  étang
+N5 いし 石  pierre, roc 
+N5 いしゃ 医者  docteur, médecin 
+N5 いす 椅子  chaise 
+N5 いそがしい 忙しい  occupé
+N5 いたい 痛い  douloureux 
+N5 いただきます 戴きます  merci pour ce repas (expression de gratitude avant de commencer à manger)
+N5 いち 一  un 
+N5 いちにち 一日  un jour 
+N5 いちばん 一番  meilleur, le premier, le numéro 1 
+N5 いつ 何時  quand ? 
+N5 いつか 五日  cinquième jour du mois, 5 jours 
+N5 いっしゅうかん 一週間  une semaine 
+N5 いっしょ 一緒  ensemble 
+N5 いつつ 五つ  cinq
+N5 いつも 何時も  toujours, à chaque fois, jamais (+négatif) 
+N5 いぬ 犬  chien 
+N5 いま 今  maintenant 
+N5 いみ 意味  signification, sens
+N5 いもうと 妹  petite-sœur 
+N5 いや 嫌・否  désagréable, déplaisant 
+N5 いらっしゃいま せ  bienvenue (dans notre magasin, notre restaurant) 
+N5 いりぐち 入り口  entrée 
+N5 いる 要る [五段] avoir besoin, nécessiter
+N5 いれる 入れる [一段] introduire, mettre dedans, insérer, préparer (du thé, du café)
+N5 いろ 色  couleur 
+N5 いろいろ 色々  divers, variés 
+N5 うえ 上  dessus 
+N5 うしろ 後ろ  derrière
+N5 うすい 薄い  mince, pâle (pour une couleur) 
+N5 うた 歌  chanson, chant 
+N5 うたう 歌う [五段] chanter 
+N5 うち 家・内  maison (sa), chez soi
+N5 うちで 内で  chez soi 
+N5 うまれる 生まれる [一段] naître 
+N5 うみ 海  mer 
+N5 うる 売る [五段] vendre
+N5 うわぎ 上着  manteau, veste 
+N5 え 絵  image, dessin 
+N5 えいが 映画  film 
+N5 えいがかん 映画館  cinéma (bâtiment)
+N5 えいご 英語  langue anglaise 
+N5 ええ  oui, en effet, c'est cela 
+N5 えき 駅  gare 
+N5 エレベーター  ascenseur 
+N5 えん 円  yen 
+N5 えんぴつ 鉛筆  crayon 
+N5 おいしい 美味しい  bon, délicieux
+N5 おいでになる お出でになる [五段] être, arriver (poli) 
+N5 おおきい 大きい  grand, large 
+N5 おおぜい 大勢  foule 
+N5 おかあさん お母さん  mère (polie)
+N5 おかし お菓子  gâteau, confiserie 
+N5 おかね お金  argent, monnaie 
+N5 おきる 起きる [一段] se réveiller, se lever 
+N5 おく 置く [五段] poser
+N5 おくさん 奥さん  épouse (d'un autre) 
+N5 おくる 送る [五段] envoyer, expédier, accompagner une personne 
+N5 おげんきで お元気で  portez-vous bien, prends soin de toi 
+N5 おじいさん お爺さん  grand-père (polie)
+N5 おしえる 教える [一段] enseigner, instruire 
+N5 おじさん 伯父さん・叔父さん  oncle (polie) 
+N5 おす 押す [五段] pousser, presser 
+N5 おそい 遅い  lent
+N5 おちゃ お茶  thé 
+N5 おてあらい お手洗い  toilettes 
+N5 おとうさん お父さん  père (polie) 
+N5 おとうと 弟  petit-frère
+N5 おとこ 男  homme 
+N5 おとこのこ 男の子  garçon 
+N5 おととい・いっ さくじつ 一昨日  avant-hier 
+N5 おととし・いっ さくねん 一昨年  l'année avant l'année dernière, il y a 2 ans 
+N5 おとな 大人  adulte, grande personne 
+N5 おなか お腹  ventre, estomac
+N5 おなじ 同じ  identique, égal 
+N5 おにいさん お兄さん  grand-frère (polie) 
+N5 おねえさん お姉さん  grande-soeur (polie) 
+N5 おねがいします お願いします  s'il vous plaît 
+N5 おば 伯母・叔母  tante 
+N5 おばあさん お婆さん  grand-mère (polie)
+N5 おばさん 伯母さん・叔母さん  tante (polie) 
+N5 おはようござい ます お早う御座います  bonjour (le matin) 
+N5 おべんとう お弁当  bentô, panier-repas japonais 
+N5 おぼえる 覚える [一段] se souvenir 
+N5 おまわりさん お巡りさん  policier (désigné de manière amicale)
+N5 おもい 重い  lourd, massif 
+N5 おもしろい 面白い  intéressant 
+N5 おやすみなさい お休みなさい  bonne nuit 
+N5 およぐ 泳ぐ [五段] nager
+N5 おりる 降りる [一段] descendre (d'une montagne, un bus...) 
+N5 おわる 終わる [五段] finir 
+N5 おんがく 音楽  musique, mouvement (musique) 
+N5 おんな 女  femme
+N5 おんなのこ 女の子  fille 
+N5 かい 回  compteur pour le nombre de fois 
+N5 かい 階  compteur pour les étages 
+N5 がいこく 外国  pays étranger
+N5 がいこくじん 外国人  étranger 
+N5 かいしゃ 会社  entreprise 
+N5 かいだん 階段  escaliers 
+N5 かいもの 買い物  achats, courses
+N5 かう 買う [五段] acheter 
+N5 かえす 返す [五段] retourner, renvoyer quelque chose 
+N5 かお 顔  visage 
+N5 かかる 掛かる [五段] prendre (du temps, de l'argent), être accroché, être suspendu, être couvert (par une assurance, un contrat…)
+N5 かぎ 鍵  clé
+N5 かく 書く [五段] écrire 
+N5 がくせい 学生  étudiant 
+N5 かげつ ヶ月・箇月  compteur pour le nombre de mois 
+N5 かける 掛ける [一段] accrocher, porter (des lunettes...), appeler (au téléphone), prendre, dépenser (de l'argent, du temps)
+N5 かさ 傘  parapluie 
+N5 かす 貸す [五段] prêter 
+N5 かぜ 風邪  rhume
+N5 かぜ 風  vent 
+N5 かぞく 家族  famille 
+N5 かた 方  personne (poli) 
+N5 かたかな 片仮名  katakana (un des syllabaires japonais)
+N5 がつ 月  mois de l'année 
+N5 がっこう 学校  école
+N5 かてい 家庭  famille (sa), maison (sa) 
+N5 かど 角  coin (d'une rue, d'un trottoir…), rebord, bord
+N5 かない 家内  épouse (la nôtre) 
+N5 かね 金  argent, monnaie 
+N5 かばん 鞄  sac, cartable 
+N5 かびん 花瓶  vase
+N5 かぶる 被る [五段] porter quelque chose sur la tête, être recouvert (d'eau, de poussière…), supporter (un défaut, un manque…)
+N5 かみ 紙  papier 
+N5 カメラ  appareil photo 
+N5 かようび 火曜日  mardi 
+N5 からい 辛い  épicé
+N5 かりる 借りる [一段] emprunter, louer 
+N5 かるい 軽い  léger, mineur, peu sérieux 
+N5 カレンダー  calendrier 
+N5 かわ 川・河  rivière, cours d'eau
+N5 かわいい 可愛い  adorable, mignon 
+N5 かんじ 漢字  caractères chinois, kanji 
+N5 き 木  arbre, bois (la matière) 
+N5 きいろ 黄色  jaune 
+N5 きいろい 黄色い  jaune 
+N5 きえる 消える [一段] disparaître, s'éteindre, s'effacer 
+N5 きく 聞く [五段] écouter, entendre, demander 
+N5 きた 北  nord 
+N5 ギター  guitare
+N5 きたない 汚い  sale 
+N5 きっさ 喫茶  salon de thé 
+N5 きっさてん 喫茶店  salon de thé, café (lieux) 
+N5 きって 切手  timbre
+N5 きっぷ 切符  ticket, billet 
+N5 きのう 昨日  hier 
+N5 きゅう・く 九  neuf 
+N5 ぎゅうにく 牛肉  viande de boeuf
+N5 ぎゅうにゅう 牛乳  lait de vache 
+N5 きょう・こんに ち 今日  aujourd'hui 
+N5 きょうしつ 教室  salle de classe 
+N5 きょうだい 兄弟  frères et soeurs (d'une même famille), frères 
+N5 きょねん 去年  année dernière
+N5 きらい 嫌い  détesté 
+N5 きる 切る [五段] couper 
+N5 きる 着る [一段] enfiler un vêtement sur les épaules, s'habiller 
+N5 きれい 奇麗・綺麗  beau, propre, joli, clair
+N5 キログラム  kilogramme 
+N5 キロメートル  kilomètre 
+N5 ぎんこう 銀行  banque 
+N5 きんようび 金曜日  vendredi
+N5 くすり 薬  médicament 
+N5 くだもの 果物  fruit 
+N5 くち 口  bouche, ouverture 
+N5 くつ 靴  chaussures
+N5 くつした 靴下  chaussettes 
+N5 くに 国  pays, région, province 
+N5 くもり 曇り  nuageux 
+N5 くらい 暗い  sombre 
+N5 くらい・ぐらい  environ 
+N5 クラス  classe 
+N5 グラム  gramme 
+N5 くる 来る [五段]s arriver, venir
+N5 くるま 車  voiture, automobile 
+N5 くろ 黒  noir (le) 
+N5 くろい 黒い  noir 
+N5 けさ 今朝  ce matin
+N5 けす 消す [五段] éteindre (un appareil, un feu), effacer, supprimer 
+N5 けっこう 結構  bien, merveilleux 
+N5 けっこうです 結構です  c'est OK, raisonnable, ça me convient 
+N5 けっこん 結婚  mariage
+N5 けっこんする 結婚する  se marier 
+N5 げつようび 月曜日  lundi 
+N5 げんかん 玄関  hall d'entrée, vestibule 
+N5 げんき 元気  énergique, en bonne santé
+N5 ご 五  cinq 
+N5 ご・お 御  préfixe honorifique 
+N5 こうえん 公園  parc public, jardin public 
+N5 こうちゃ 紅茶  thé noir
+N5 こうばん 交番  petit poste de police 
+N5 こえ 声  voix 
+N5 コート  manteau, veste, court (de tennis, de basket…) 
+N5 コーヒー  café
+N5 ここ 此所  ici (proche du locuteur) 
+N5 ごご 午後  après-midi 
+N5 ここのか 九日  neuvième jour du mois, 9 jours 
+N5 ここのつ 九つ  neuf
+N5 ごしゅじん ご主人  mari (de quelqu'un) (polie) 
+N5 ごぜん 午前  matin 
+N5 こたえる 答える [一段] répondre 
+N5 ごちそうさまで した ご馳走様でした  merci pour ce repas (après avoir mangé) 
+N5 こちら 此方  ce côté-ci (proche du locuteur) 
+N5 こちらこそ  de même 
+N5 コップ  verre (contenu) 
+N5 ことし 今年  cette année 
+N5 ことば 言葉  mot, langage, phrase, parole
+N5 こども 子供  enfant 
+N5 この 此の  ce (proche du locuteur) 
+N5 ごはん ご飯  riz cuit, repas 
+N5 こまる 困る [五段] être gêné, être embarrassé
+N5 ごめんください ご免下さい  puis-je rentrer ? (dans la maison de quelqu'un d'autre)
+N5 ごめんなさい ご免なさい  désolé, excusez moi 
+N5 これ 惟  ceci (proche du locuteur) 
+N5 ころ・ごろ  vers (pour l'heure) 
+N5 こんげつ 今月  ce mois-ci
+N5 こんしゅう 今週  cette semaine 
+N5 こんな  cette sorte de 
+N5 こんにちは 今日は  bonjour (l'après-midi) 
+N5 こんばん 今晩  ce soir
+N5 こんばんは 今晩は  bonsoir 
+N5 さい 歳  ans (pour l'âge) 
+N5 さかな・うお 魚  poisson 
+N5 さき 先  précédent, antérieur
+N5 さく 咲く [五段] fleurir, éclore 
+N5 さくぶん 作文  composition, essai (écrit), rédaction 
+N5 さけ 酒  alcool, sake 
+N5 さす 差す [五段] ouvrir (un parapluie)
+N5 さつ 冊  compteur pour les livres 
+N5 ざっし 雑誌  revue, magazine 
+N5 さとう 砂糖  sucre 
+N5 さむい 寒い  froid (temps météo.)
+N5 さようなら 左様なら  au revoir, adieu 
+N5 さよなら  au revoir 
+N5 さら 皿  assiette 
+N5 さらいねん 再来年  dans deux ans 
+N5 さん 三  trois 
+N5 さん  suffixe pour les noms (Mme, Mr) 
+N5 さんぽ 散歩  promenade, balade 
+N5 さんぽする 散歩する  se promener
+N5 し 四  quatre 
+N5 じ 時  heure (comme dans : 6h du matin, 18h…) 
+N5 しお 塩  sel 
+N5 しかし 併し  mais, cependant, pourtant, toutefois
+N5 じかん 時間  heure, temps 
+N5 しごと 仕事  travail, emploi 
+N5 じしょ 辞書  dictionnaire 
+N5 しずか 静か  calme
+N5 した 下  dessous 
+N5 しつもん 質問  question, demande de renseignement 
+N5 しつもんする 質問する  poser une question 
+N5 しつれいしまし た 失礼しました  excusez-moi, je suis désolé 
+N5 しつれいします 失礼します  excusez-moi
+N5 じてんしゃ 自転車  vélo 
+N5 じどうしゃ 自動車  véhicule 
+N5 しぬ 死ぬ [五段] mourir 
+N5 じびき 字引  dictionnaire
+N5 じぶん 自分  soi-même, elle-même, lui-même 
+N5 しまる 閉まる [五段] se fermer 
+N5 しめる 締める [一段] attacher 
+N5 しめる 閉める [一段] fermer
+N5 しゃしん 写真  photographie 
+N5 しゃしんをとる 写真を撮る  prendre une photo 
+N5 シャツ  chemise, chemisier 
+N5 シャワー  douche
+N5 じゅう 中  à travers, partout dans, partout en 
+N5 じゅう・とお 十  dix 
+N5 しゅうかん 週間  semaine 
+N5 じゅぎょう 授業  cours, classe 
+N5 しゅくだい 宿題  devoir à la maison 
+N5 じょうず 上手  doué, bon 
+N5 じょうぶ 丈夫  bonne santé, forme 
+N5 しょうゆ 醤油  sauce soja
+N5 しょくどう 食堂  salle à manger 
+N5 しる 知る [五段] connaître, savoir 
+N5 しろい 白い  blanc 
+N5 しんぶん 新聞  journal (papier)
+N5 すいようび 水曜日  mercredi 
+N5 すう 吸う [五段] fumer, respirer, inhaler 
+N5 スカート  jupe 
+N5 すき 好き  beaucoup aimé, adoré
+N5 すぐに 直ぐに  immédiatement 
+N5 すこし 少し  un peu 
+N5 すずしい 涼しい  frais 
+N5 ずつ  chaque
+N5 ストーブ  chauffage 
+N5 スプーン  cuillère 
+N5 スポーツ  sport 
+N5 ズボン  pantalon
+N5 すみません 済みません  désolé, excusez moi 
+N5 すむ 住む [五段] habiter 
+N5 スリッパ  pantoufle 
+N5 する 為る  faire
+N5 すわる 座る [五段] s'asseoir 
+N5 せい 背  taille (hauteur d'une personne) 
+N5 せいと 生徒  élève 
+N5 セーター  pull
+N5 せっけん 石鹸  savon 
+N5 せびろ 背広  costume d'affaire 
+N5 せまい 狭い  étroit, exigu, petit 
+N5 ゼロ  zéro 
+N5 せん 千  mille 
+N5 せんげつ 先月  mois dernier 
+N5 せんしゅう 先週  semaine dernière 
+N5 せんせい 先生  professeur, enseignant 
+N5 せんたく 洗濯  lessive
+N5 せんたくする 洗濯する  faire la lessive 
+N5 ぜんぶ 全部  totalement, en entier 
+N5 そうじする 掃除する  faire le ménage 
+N5 そうして 然うして  et ensuite, et après
+N5 そこ 其処  là (proche de l'interlocuteur) 
+N5 そと 外  dehors, extérieur, à l'air libre 
+N5 その 其の  ce (proche de l'interlocuteur) 
+N5 そのほか その他  divers
+N5 そば 側  proche de, à côté de 
+N5 そら 空  ciel 
+N5 それ 其れ  ceci (proche de l'interlocuteur) 
+N5 それから 其れから  ensuite, après, depuis lors
+N5 それでわ 其れでは  dans ce cas, alors, donc 
+N5 だい 台  support, socle, table 
+N5 だい 台  compteur pour le nombre de voitures 
+N5 だいがく 大学  université
+N5 たいしかん 大使館  ambassade 
+N5 だいじょうぶ 大丈夫  qui va bien, sans problème 
+N5 だいすき 大好き  adorable, adoré 
+N5 たいせつ 大切  important
+N5 たいてい 大抵  d'habitude, en général 
+N5 だいどころ 台所  cuisine 
+N5 たいへん 大変  sérieux, grave, important, immense, énorme 
+N5 たかい 高い  haut, cher
+N5 たくさん 沢山  beaucoup 
+N5 タクシー  taxi 
+N5 だけ 丈  juste, seulement 
+N5 だす 出す [五段] sortir, partir 
+N5 たち 達  marque du pluriel, suffixe pour le pluriel 
+N5 たつ 立つ [五段] se lever, être érigé, être levé, tenir debout 
+N5 たつ 発つ [五段] partir (en train, en avion…) 
+N5 たてもの 建物  bâtiment 
+N5 たのしい 楽しい  plaisant, amusant
+N5 たのむ 頼む [五段] demander 
+N5 たばこ 煙草  cigarette, tabac 
+N5 たぶん 多分  peut-être 
+N5 たべもの 食べ物  nourriture
+N5 たべる 食べる [一段] manger 
+N5 たまご 卵  oeuf 
+N5 だれ 誰  qui ?, quelqu'un 
+N5 だれか 誰か  quelqu'un
+N5 たんじょうび 誕生日  anniversaire 
+N5 だんだん 段々  progressivement, petit à petit 
+N5 ちいさい 小さい  petit 
+N5 ちかい 近い  proche (en distance), près
+N5 ちがう 違う [五段] être différent 
+N5 ちかく 近く  voisinage, environ 
+N5 ちかてつ 地下鉄  métro 
+N5 ちず 地図  carte, plan
+N5 ちち 父  père 
+N5 ちゃいろ 茶色  marron clair 
+N5 ちゃいろ 茶色  marron 
+N5 ちゃわん 茶碗  bol à riz, tasse à thé
+N5 ちゅう 中  pendant 
+N5 ちょうど 丁度  juste, exact 
+N5 ちょっと 一寸  juste une minute, un petit peu, un instant, un moment
+N5 ついたち 一日  premier jour du mois, 1 jour 
+N5 つかう 使う [五段] utiliser, employer, dépenser (de l'argent, du temps), parler (une langue)
+N5 つかれる 疲れる [一段] être fatigué 
+N5 つぎ 次  suivant
+N5 つきあかり 月明かり  clair de lune 
+N5 つく 着く [五段] arriver, atteindre 
+N5 つくえ 机  bureau (meuble) 
+N5 つくる 作る・創る・造る [五段] faire, créer, réaliser, construire, fabriquer 
+N5 つける 点ける [一段] allumer (la lumière, une cigarette…) 
+N5 つとめる 努める [一段] faire des efforts, s'appliquer, travailler
+N5 つまらない 詰まらない  ennuyeux, peu intéressant 
+N5 つめたい 冷たい  glacé (au toucher), froid 
+N5 つよい 強い  fort, puissant 
+N5 て 手  main
+N5 テープ  bande magnétique, cassette audio 
+N5 テーブル  table 
+N5 テープレコーダ ー   magnétophone 
+N5 でかける 出かける [一段] sortir, partir 
+N5 てがみ 手紙  lettre
+N5 できる 出来る [一段] être capable de faire, être fait 
+N5 でぐち 出口  sortie 
+N5 テスト  test, essai 
+N5 では  donc, alors, et bien
+N5 デパート  centre commercial 
+N5 でも  mais, cependant 
+N5 でる 出る [一段] quitter, sortir 
+N5 テレビ  télévision
+N5 てん 店  boutique de, magasin de 
+N5 てんき 天気  météo, temps 
+N5 でんき 電気  électricité, lumière électrique 
+N5 でんきをつける 電気を点ける  allumer la lumière
+N5 でんしゃ 電車  train 
+N5 でんわ 電話  téléphone 
+N5 と 戸  porte coulissante 
+N5 と  si, quand, et, avec
+N5 ど 度  degré (angle, température...) 
+N5 ど 度  compteur pour les occurrences, le nombre de fois 
+N5 ドア  porte (style occidental) 
+N5 トイレ  toilettes 
+N5 どう 如何  comment ?, de quelle manière ? 
+N5 どういたしまし て どう致しまして  il n'y a pas de quoi, de rien 
+N5 どうして 如何して  pourquoi ? 
+N5 どうぞ  s'il vous plaît 
+N5 どうぞよろしく どうぞ宜しく  enchanté, je compte sur vous
+N5 どうぶつ 動物  animal 
+N5 どうも  merci 
+N5 どうもありがと うございます どうも有難う御座います  merci beaucoup 
+N5 とおい 遠い  long, distant 
+N5 とおか 十日  dixième jour du mois, 10 jours
+N5 とき 時  heure, temps, moment 
+N5 ときどき 時々  de temps en temps, parfois 
+N5 とけい 時計  montre, horloge, réveil 
+N5 どこ 何所  où ?
+N5 ところ 所  endroit, lieu 
+N5 としょかん 図書館  bibliothèque (bâtiment) 
+N5 どちら 何方  quel côté ? 
+N5 とても 迚も  beaucoup, extrêmement
+N5 どなた 何方  qui ? (poli) 
+N5 となり 隣  proche, voisin 
+N5 どの 何の  quel ? 
+N5 とぶ 飛ぶ・跳ぶ [五段] voler, s'envoler, bondir 
+N5 とまる・とどま る 止まる・留まる [五段] rester (au même endroit), stopper, s'arrêter, demeurer, être limité à, s'établir
+N5 ともだち 友達  ami, compagnon
+N5 どようび 土曜日  samedi 
+N5 とり 鳥  oiseau 
+N5 とりにく 鶏肉  poulet 
+N5 とる 取る [五段] prendre, emporter
+N5 とる 撮る [五段] prendre (une photographie) 
+N5 どれ 何れ  lequel ? 
+N5 どんな  quel genre ? 
+N5 ない 無い  qui n'existe pas, qui n'est pas là, qui n'est pas possédé
+N5 ナイフ  couteau
+N5 なか 中  à l'intérieur de, parmi 
+N5 ながい 長い  long 
+N5 なく 鳴く [五段] chanter (oiseau), aboyer, miauler, grogner (pangolin)...
+N5 なつ 夏  été 
+N5 なつやすみ 夏休み  vacances d'été 
+N5 など 等  etc, et cetera
+N5 なな 七  sept 
+N5 ななつ 七つ  sept 
+N5 なのか 七日  septième jour du mois, 7 jours 
+N5 なまえ 名前  nom
+N5 ならう 習う [五段] étudier, apprendre (de quelqu'un) 
+N5 ならぶ 並ぶ [五段] se mettre en rangs, faire la queue, rivaliser, égaler 
+N5 ならべる 並べる [一段] aligner 
+N5 なる 成る [五段] devenir, se changer en, être composé de, être constitué de
+N5 なん 何  combien (+ compteur) ?
+N5 なん・なに 何  que, quoi ? 
+N5 に 二  deux 
+N5 にぎやか 賑やか  animé (en parlant d'une ville, d'une rue…) 
+N5 にく 肉  viande
+N5 にし 西  ouest 
+N5 にち 日  jour du mois, compteur pour les jours du mois 
+N5 にちようび 日曜日  dimanche 
+N5 にほんご 日本語  langue japonaise
+N5 にもつ 荷物  bagage, paquet 
+N5 ニュース  informations 
+N5 にわ 庭  jardin 
+N5 にん 人  compteur pour les personnes
+N5 ぬぐ 脱ぐ [五段] enlever (des habits), se déshabiller 
+N5 ネクタイ  cravate 
+N5 ねる 寝る [一段] se coucher, aller dormir 
+N5 ねん 年  années, compteur pour les années 
+N5 ノート  calepin, cahier, note 
+N5 のぼる 登る・上る・昇る [五段] escalader, grimper, gravir, se lever (le soleil) 
+N5 のみもの 飲み物  boisson 
+N5 のむ 飲む [五段] boire
+N5 のる 乗る [五段] monter (dans un véhicule), prendre (un train), embarquer (dans un avion, un bateau)
+N5 は 歯  dent 
+N5 パーティー  fête 
+N5 はい  oui 
+N5 はいざら 灰皿  cendrier
+N5 はいる 入る [五段] entrer, pénétrer 
+N5 はがき 葉書  carte postale 
+N5 はく 穿く・履く [五段] porter des vêtements en dessous de la taille 
+N5 はこ 箱  boite
+N5 はし 箸  baguette 
+N5 はし 橋  pont 
+N5 はじまる 始まる [五段] être commencé 
+N5 はじめ 初め  début
+N5 はじめ 始め  début, départ, origine 
+N5 はじめて 初めて  pour la première fois 
+N5 はじめまして 始めまして  heureux de faire votre connaissance 
+N5 はしる 走る [五段] courir
+N5 バス  bus 
+N5 バター  beurre 
+N5 はたち 二十歳  vingt ans (être âgé de) 
+N5 はたらく 働く [五段] travailler
+N5 はち 八  huit 
+N5 はつか 二十日  vingtième jour du mois, 20 jours 
+N5 はな 花  fleur 
+N5 はな 鼻  nez
+N5 はなし 話  discours, conversation 
+N5 はなす 話す [五段] parler 
+N5 はは 母  mère 
+N5 はやい 早い  rapide (temps), diligent 
+N5 はやい 速い  rapide (vitesse), véloce 
+N5 はる 春  printemps 
+N5 はる 張る [五段] coller, fixer 
+N5 はれ 晴れ  beau temps, temps clair
+N5 はれる 晴れる [一段] s'éclaircir, s'ensoleiller 
+N5 はん 半  et demie 
+N5 ばん 晩  soir, soirée 
+N5 パン  pain
+N5 ハンカチ  mouchoir 
+N5 ばんごう 番号  numéro 
+N5 ばんごはん 晩ご飯  dîner, repas du soir 
+N5 はんぶん 半分  moitié
+N5 ひがし 東  est
+N5 ひき 匹  rouleau de tissu 
+N5 ひき 匹  compteur pour les petits animaux 
+N5 ひく 引く [五段] jouer d'un instrument à corde, dessiner (ligne)
+N5 ひく 引く [五段] tirer, attirer (l'attention, l'intérêt...), tracer (une droite, un trait)
+N5 ひくい 低い  bas, faible (température, rang, degré…) 
+N5 ひこうき 飛行機  avion 
+N5 ひだり 左  gauche 
+N5 ひと 人  être humain, une personne
+N5 ひとつ 一つ  un 
+N5 ひとつき 一月  un mois 
+N5 ひとり 一人  une personne 
+N5 ひま 暇  qui a du temps libre
+N5 ひゃく 百  cent 
+N5 びょういん 病院  hôpital 
+N5 びょうき 病気  malade 
+N5 ひらがな 平仮名  hiragana (un des syllabaires japonais)
+N5 ひる 昼  midi 
+N5 ひるごはん 昼ご飯  repas de midi 
+N5 ひろい 広い  large, vaste 
+N5 フィルム  film 
+N5 ふうとう 封筒  enveloppe 
+N5 プール  piscine 
+N5 フォーク  fourchette 
+N5 ふく 服  vêtements
+N5 ふく 吹く [五段] souffler (vent) 
+N5 ふたつ 二つ  deux 
+N5 ぶたにく 豚肉  porc 
+N5 ふたり 二人  deux personnes
+N5 ふつか 二日  second jour du mois, 2 jours 
+N5 ふとい 太い  gros, épais 
+N5 ふゆ 冬  hiver 
+N5 ふる 降る [五段] tomber (neige, pluie, grêle...)
+N5 ふるい 古い  vieux, âgé 
+N5 ふん 分  minute 
+N5 ぶんしょう 文章  phrase, style d'écriture, texte 
+N5 ページ  page
+N5 へた 下手  pas doué, mauvais 
+N5 ベッド  lit 
+N5 へや 部屋  chambre 
+N5 へん 辺  côté (d'un triangle par ex.), les alentours
+N5 ペン  stylo 
+N5 べんきょう 勉強  études, travail 
+N5 べんきょうする 勉強する  étudier 
+N5 べんり 便利  pratique, utile
+N5 ぼうし 帽子  chapeau 
+N5 ボールペン  stylo-bille 
+N5 ほか 他  divers, autre 
+N5 ポケット  poche
+N5 ほしい 欲しい  désiré, voulu 
+N5 ほそい 細い  fin, ténu 
+N5 ボタン  bouton 
+N5 ホテル  hôtel 
+N5 ほん 本  livre 
+N5 ほん 本  compteur pour les objets ronds et longs 
+N5 ほんだな 本棚  bibliothèque (rangement) 
+N5 ほんとう 本当  vrai, véritable 
+N5 ほんとうに 本当に  vraiment, réellement
+N5 まい 枚  compteur pour les objets plats comme des feuilles 
+N5 まいあさ 毎朝  tous les matins 
+N5 まいしゅう 毎週  toutes les semaines 
+N5 まいつき 毎月  tous les mois 
+N5 まいとし・まい ねん 毎年・毎年  tous les ans 
+N5 まいにち 毎日  tous les jours 
+N5 まいばん 毎晩  tous les soirs 
+N5 まえ 前  devant, avant 
+N5 まえ 前  avant, auparavant
+N5 まがる 曲がる [五段] tourner, se courber, se plier 
+N5 まずい 不味い  peu appétissant, sans goût 
+N5 また 復  encore 
+N5 また  à plus tard
+N5 まだ・いまだ 未だ  pas encore (+négatif), encore (+positif) 
+N5 まち 町・街  ville, quartier 
+N5 まつ 待つ [五段] attendre 
+N5 まっすぐ 真っ直ぐ  droit devant, en face
+N5 マッチ  match, allumette 
+N5 まど 窓  fenêtre 
+N5 まるい 丸い  rond, circulaire 
+N5 まるい 円い  rond, circulaire
+N5 まん 万  dix-mille 
+N5 まんねんひつ 万年筆  stylo-plume 
+N5 みがく 磨く [五段] polir, nettoyer, faire briller 
+N5 みぎ 右  droite
+N5 みじかい 短い  court 
+N5 みず 水  eau 
+N5 みせ 店  magasin 
+N5 みせる 見せる [一段] montrer, afficher, laisser montrer 
+N5 みち 道  chemin 
+N5 みっか 三日  troisième jour du mois, 3 jours 
+N5 みっつ 三つ  trois 
+N5 みなさん 皆さん  tout le monde
+N5 みなみ 南  sud 
+N5 みみ 耳  oreille 
+N5 みる 見る・観る・視る [一段] voir 
+N5 むいか 六日  sixième jour du mois, 6 jours
+N5 むこう 向こう  de l'autre côté 
+N5 むずかしい 難しい  difficile 
+N5 むっつ 六つ  six 
+N5 め 目  oeil
+N5 め 目  compteur des numéros d'ordre (suffixe en -ième comme dans deuxième)
+N5 メートル  mètre 
+N5 めがね 眼鏡  lunette 
+N5 もう  encore, plus, déjà 
+N5 もくようび 木曜日  jeudi
+N5 もしもし  hallo (au téléphone) 
+N5 もちろん 勿論  bien sûr, évidemment 
+N5 もつ 持つ [五段] tenir, porter, posséder 
+N5 もっと  plus
+N5 もの 物  chose, objet 
+N5 もん 門  porte 
+N5 もんだい 問題  problème, sujet à traiter, question 
+N5 やおや 八百屋  maraîcher, marchand de fruits et légumes
+N5 やさい 野菜  légume 
+N5 やさしい 優しい  facile, simple, gentil 
+N5 やさしい 易しい  facile, simple 
+N5 やすい 安い  peu cher, bon marché, calme, paisible
+N5 やすみ 休み  vacances, congé, repos 
+N5 やすむ 休む [五段] se reposer, être absent, prendre un congé 
+N5 やっつ 八つ  huit 
+N5 やま 山  montagne, mont 
+N5 やる 遣る [五段] faire 
+N5 ゆうがた 夕方  soir, soirée 
+N5 ゆうびんきょく 郵便局  bureau de poste 
+N5 ゆうめい 有名  célèbre
+N5 ゆき 雪  neige 
+N5 ゆっくり  lentement, tranquillement 
+N5 ようか 八日  huitième jour du mois, 8 jours 
+N5 ようふく 洋服  vêtements occidentaux
+N5 よく 好く  bien, adroitement 
+N5 よく 克く  souvent 
+N5 よこ 横  côté (d'un boîte, d'un batîment...) 
+N5 よっか 四日  quatrième jour du mois, 4 jours
+N5 よっつ 四つ  quatre 
+N5 よぶ 呼ぶ [五段] appeler 
+N5 よむ 読む [五段] lire 
+N5 よる・よ 夜  nuit
+N5 らいげつ 来月  mois prochain 
+N5 らいしゅう 来週  semaine prochaine 
+N5 らいねん 来年  année prochaine 
+N5 ラジオ  radio
+N5 りっぱ 立派  magnifique, splendide, impressionnant 
+N5 りゅうがくせい 留学生  étudiant venant de l'étranger 
+N5 りょうしん 両親  parents (père et mère) 
+N5 りょうり 料理  plat, cuisine
+N5 りょこう 旅行  voyage 
+N5 りょこうする 旅行する  voyager 
+N5 れい 零  zéro 
+N5 れいぞうこ 冷蔵庫  réfrigérateur
+N5 レコード  disque (de musique), record 
+N5 レストラン  restaurant 
+N5 れんしゅう 練習  exercice 
+N5 れんしゅうする 練習する  faire des exercices, s'entraîner 
+N5 ろく 六  six 
+N5 ワイシャツ  chemise 
+N5 わかい 若い  jeune 
+N5 わかる 分かる [五段] comprendre, être au courant, connaitre (une langue)
+N5 わすれる 忘れる [一段] oublier 
+N5 わたくし 私  je, mon, moi (formel)
+N5 わたし 私  je, mon, moi (neutre) 
+N5 わたす 渡す [五段] remettre, livrer, transmettre 
+N5 わたる 渡る [五段] traverser 
+N5 わるい 悪い  mauvais, méprisable
